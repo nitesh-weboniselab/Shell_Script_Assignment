@@ -1,0 +1,24 @@
+webonise@webonise-desktop:~$ chmod +x Assignment.sh
+webonise@webonise-desktop:~$ ./Assignment.sh
+HOST NAME= webonise-desktop
+ 
+ OS Type and Version no 
+ 
+Linux version 3.5.0-23-generic (buildd@komainu) (gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5) ) #35~precise1-Ubuntu SMP 
+Fri Jan 25 17:13:26 UTC 2013
+ 
+ Path to home Directory
+ 
+/home/webonise/
+ 
+ user logged into this machin 
+ 
+webonise tty7         2013-12-17 09:38
+webonise pts/1        2013-12-17 13:37 (:0)
+webonise pts/2        2013-12-17 15:15 (:0)
+ 
+Groups Belong to 
+ 
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+webonise@webonise-desktop:~$ 
+
