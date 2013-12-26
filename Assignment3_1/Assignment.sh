@@ -1,5 +1,13 @@
-
 #Hostname<<Assignment.log
+# this code outputs for
+#the hostname of the system you are on?
+#the type and version of the operating system the machine machine is running? (Show both at the same time, with one command.)
+#the full path to your home directory?
+#which other users are logged into the machine you are using?
+#what groups user belong to?
+
+
+
 
 hostname=`hostname -s` >>assignment.log date >>assignment.log
 
